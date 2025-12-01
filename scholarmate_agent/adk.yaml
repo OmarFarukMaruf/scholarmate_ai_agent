@@ -1,0 +1,3 @@
+name: scholarship_finder_agent
+entry_module: scholarship_finder_agent.app
+entry_function: create_runner
